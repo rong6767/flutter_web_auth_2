@@ -1,4 +1,4 @@
-name: flutter_web_auth_2_root
+name: flutter_web_auth_2
 
 environment:
   sdk: '>=2.15.0 <4.0.0'
